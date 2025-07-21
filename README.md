@@ -1,4 +1,4 @@
-# Kanban Board App
+# Ohno Kanban Board App
 
 Um aplicativo web simples para gerenciamento de tarefas em estilo Kanban, voltado para equipes de desenvolvimento.
 
@@ -6,18 +6,18 @@ Um aplicativo web simples para gerenciamento de tarefas em estilo Kanban, voltad
 
 ## 🚀 Visão Geral
 
-Este projeto permite criar quadros Kanban personalizados, com colunas e cards de tarefas que podem ser movidos via drag-and-drop. Ideal para organizar fluxos de trabalho, acompanhar status de atividades e colaborar de forma visual.
+Este projeto permite criar quadros Kanban personalizados, com colunas e cards de tarefas. Ideal para organizar fluxos de trabalho, acompanhar status de atividades e colaborar de forma visual.
 
-### Funcionalidades Principais
+### Funcionalidades a serem implementadas
 
 * **CRUD de Colunas**: adicionar, renomear e remover colunas.
 * **CRUD de Cards**: criar, editar e excluir cards de tarefa.
-* **Drag-and-Drop**: reorganizar cards entre colunas usando SortableJS.
+* **Drag-and-Drop**: reorganizar cards entre colunas usando SortableJS. 
 * **Filtragem e Busca**: localizar cards por texto.
 * **Persistência Local**: armazenamento de dados no LocalStorage do navegador.
 * **Tema Claro/Escuro**: alternar visualização e salvar preferência.
 * **Responsividade**: layout adaptável para desktops e dispositivos móveis.
-* **Acessibilidade**: suporte a ARIA e navegação por teclado.
+  
 
 ---
 
