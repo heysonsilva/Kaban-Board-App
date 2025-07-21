@@ -1,6 +1,6 @@
 # Ohno Kanban Board App
 
-Um aplicativo web simples para gerenciamento de tarefas em estilo Kanban, voltado para equipes de desenvolvimento.
+Um aplicativo web simples para gerenciamento de tarefas em estilo Kanban.
 
 ## 🚀 Visão Geral
 
@@ -99,5 +99,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 Contribuições são bem-vindas! Abra issues para sugestões e pull requests para melhorias.
 
 ---
-
-© 2025 Jaguar Studio. Todos os direitos reservados.
