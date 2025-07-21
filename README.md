@@ -2,8 +2,6 @@
 
 Um aplicativo web simples para gerenciamento de tarefas em estilo Kanban, voltado para equipes de desenvolvimento.
 
----
-
 ## 🚀 Visão Geral
 
 Este projeto permite criar quadros Kanban personalizados, com colunas e cards de tarefas. Ideal para organizar fluxos de trabalho, acompanhar status de atividades e colaborar de forma visual.
