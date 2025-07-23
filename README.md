@@ -81,21 +81,7 @@ kanban-app/
 
 ---
 
-## 📓 Referências e Inspiração
-
-* Padrões de design do Trello e Jira
-* Implementação de Kanban em Vanilla JS
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
----
-
-## ✍️ Contribuições
-
-Contribuições são bem-vindas! Abra issues para sugestões e pull requests para melhorias.
-
----
